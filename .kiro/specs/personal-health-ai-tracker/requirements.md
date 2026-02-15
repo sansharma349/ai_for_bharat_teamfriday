@@ -123,7 +123,7 @@ PHAIT is a secure, AI-powered medical vault that operates entirely on-device to 
 
 1. WHEN a user adds a medication, THE PHAIT_System SHALL store the name, dosage, frequency, and start date
 2. THE PHAIT_System SHALL support scheduling reminders for medication doses at specified times
-3. WHEN a medication reminder triggers, THE PHAIT_System SHALL notify the user and allow them to confirm or skip the dose
+3. WHEN a medication reminder triggers, THE PHAIT_System SHALL notify the user & allow them to confirm or skip the dose
 4. THE Local_AI_Model SHALL analyze medication combinations for potential interactions when new medications are added
 5. THE PHAIT_System SHALL track medication adherence rates and display them in the user interface
 

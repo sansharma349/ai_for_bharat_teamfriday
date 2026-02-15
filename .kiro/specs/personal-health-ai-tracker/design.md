@@ -6,9 +6,9 @@ PHAIT is a privacy-first, on-device health data management system that combines 
 
 The design follows a layered architecture with clear separation between:
 - **Storage Layer**: Encrypted local database for health records
-- **AI Processing Layer**: Local machine learning models for analysis and summarization
-- **Application Layer**: Business logic for health tracking, alerts, and emergency access
-- **Presentation Layer**: User interface and emergency responder views
+- **AI Processing Layer**: Local machine learning models for analysis & summarization
+- **Application Layer**: Business logic for health tracking, alerts, & emergency access
+- **Presentation Layer**: User interface & emergency responder views
 
 Key design principles:
 - **Zero external dependencies**: All data processing occurs on-device
